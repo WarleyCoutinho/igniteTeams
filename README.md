@@ -12,13 +12,13 @@ Projeto desenvolvido na Trilha React Native do Ignite.
 
 #Se o erro for este aqui abaixo!
 
-![Primeiro passo](1.png){width="200px"}
+![Primeiro passo](src/assets/ImagensError/Primeiro.png){width="200px"}
 
 1° passo dar um click para abrir o arquivo
-![Segundo Passo](2.png){width="200px"}
+![Segundo Passo](src/assets/ImagensError/Segundo.png){width="200px"}
 
 2° passo a clicar ele vai abrir a página onde o arquivo vai esta assim
-[Terceiro Passo](3.png){width="200px"}
+[Terceiro Passo](src/assets/ImagensError/Terceiro.png){width="200px"}
 
 3° passo altera os dados conforme a imagem abaixo e salva as alterações e para o serviços e rodar o projeto novamente que já vai funcionar perfeitamente.
-[Quarto Passo](4.png){width="200px"}
+[Quarto Passo](src/assets/ImagensError/Quarto.png){width="200px"}
