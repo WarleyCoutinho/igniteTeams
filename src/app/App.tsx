@@ -4,10 +4,11 @@ import {
   Roboto_400Regular,
   Roboto_700Bold,
 } from '@expo-google-fonts/roboto';
-import { Groups } from '@screens/Groups';
-import theme from '@theme';
-import { Loading } from '@components/Loading';
+
 import { StatusBar } from 'react-native';
+import { Groups } from '../../src/screens/Groups/index';
+import { Loading } from '../components/Loading';
+import theme from '../theme';
 
 const App = () => {
   const [fontsLoaded] = useFonts({ Roboto_400Regular, Roboto_700Bold });
